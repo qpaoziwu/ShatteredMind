@@ -1,0 +1,301 @@
+---
+title: "Source Manifest"
+tags: ["moc", "provenance", "migration"]
+related: ["[[00_MOCs/00_Master_Index]]", "[[00_MOCs/Integrity_Report]]"]
+---
+
+# Vault Source Manifest
+
+Tracking all 120 active creative notes. Original raw files remain permanently archived in `_backup_apple_notes/`.
+
+
+## Game Design
+
+- `[Decomposed] 01_Game_Design/Laser on mesh the disable mesh` → [[01_Game_Design/Civil Simulation Visualizer - Turn Squares to Pools|Civil Simulation Visualizer - Turn Squares to Pools]] · `atomic`
+- `[Decomposed] 01_Game_Design/Laser on mesh the disable mesh` → [[01_Game_Design/Seaman Hooker Bar and Ray-March Hitbox|Seaman Hooker Bar and Ray-March Hitbox]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game idea` → [[01_Game_Design/Sugar Movement Speed vs Happiness Preferences|Sugar Movement Speed vs Happiness Preferences]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game idea` → [[01_Game_Design/Watch What You Eat - Food Replenishment and Toxic Meters|Watch What You Eat - Food Replenishment and Toxic Meters]] · `atomic`
+- `[Decomposed] 01_Game_Design/Digital Candy Game` → [[01_Game_Design/Pull-Down Page UI Reveal|Pull-Down Page UI Reveal]] · `atomic`
+- `[Decomposed] 01_Game_Design/Digital Candy Game` → [[01_Game_Design/Draw Pile Sudden Death and Discard Hand End Game|Draw Pile Sudden Death and Discard Hand End Game]] · `atomic`
+- `[Decomposed] 01_Game_Design/21 Grams Weight of a Soul` → [[01_Game_Design/Ghosts Wearing Defeatable Hats|Ghosts Wearing Defeatable Hats]] · `atomic`
+- `[Decomposed] 01_Game_Design/21 Grams Weight of a Soul` → [[01_Game_Design/Hype Meter and Release the Hound Button|Hype Meter and Release the Hound Button]] · `atomic`
+- `[Decomposed] 01_Game_Design/21 Grams Weight of a Soul` → [[01_Game_Design/Environmental Death Factor Accumulation|Environmental Death Factor Accumulation]] · `atomic`
+- `[Decomposed] 01_Game_Design/21 Grams Weight of a Soul` → [[01_Game_Design/Four Emotional Pillars of Harvesting and Monster Death|Four Emotional Pillars of Harvesting and Monster Death]] · `atomic`
+- `[Decomposed] 01_Game_Design/Surfing` → [[01_Game_Design/Two-Player Wave Crash Mechanics|Two-Player Wave Crash Mechanics]] · `atomic`
+- `[Decomposed] 01_Game_Design/Surfing` → [[01_Game_Design/Seabed Bottom Ecology - Reef, Stone, Sand|Seabed Bottom Ecology - Reef, Stone, Sand]] · `atomic`
+- `[Decomposed] 01_Game_Design/Surfing` → [[01_Game_Design/Three Surfing Prototypes - Paddle, Combo, Utility|Three Surfing Prototypes - Paddle, Combo, Utility]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Escalating Consumable Multipliers|Escalating Consumable Multipliers]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Public Component Attachment Scoring|Public Component Attachment Scoring]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Puzzle Taxonomy - Battle, Easter Egg, Chain, Connect Dots|Puzzle Taxonomy - Battle, Easter Egg, Chain, Connect Dots]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Keystroke Constellation Connection Sequences|Keystroke Constellation Connection Sequences]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Dark Sky Exploration and Pacing Rewards|Dark Sky Exploration and Pacing Rewards]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Emergency Use Only Item Series|Emergency Use Only Item Series]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Robo Marching Band Circus|Robo Marching Band Circus]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Dating Profile Matching Interaction|Dating Profile Matching Interaction]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Geometric Surface Snapping and Adhesive Shapes|Geometric Surface Snapping and Adhesive Shapes]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Mememe Mosquito Audio-Visual Motif|Mememe Mosquito Audio-Visual Motif]] · `atomic`
+- `[Decomposed] 01_Game_Design/Digital Candy Game` → [[01_Game_Design/Card Melting vs Candy Consumption Economy|Card Melting vs Candy Consumption Economy]] · `atomic`
+- `[Decomposed] 01_Game_Design/Digital Candy Game` → [[01_Game_Design/Candy Value Deduction and Sugar Rush|Candy Value Deduction and Sugar Rush]] · `atomic`
+- `[Decomposed] 01_Game_Design/21 Grams Weight of a Soul` → [[01_Game_Design/Autonomous Village AI Pathfinding and Expansion|Autonomous Village AI Pathfinding and Expansion]] · `atomic`
+- `[Decomposed] 01_Game_Design/21 Grams Weight of a Soul` → [[01_Game_Design/Soul Harvesting and Divine Bargaining Economy|Soul Harvesting and Divine Bargaining Economy]] · `atomic`
+- `[Decomposed] 01_Game_Design/Distance based organism` → [[01_Game_Design/Mutating Protein Structure VFX|Mutating Protein Structure VFX]] · `atomic`
+- `[Decomposed] 01_Game_Design/Distance based organism` → [[01_Game_Design/Faction Tactics - Black Queen and Blue Shroom|Faction Tactics - Black Queen and Blue Shroom]] · `atomic`
+- `[Decomposed] 01_Game_Design/interactive carpet` → [[01_Game_Design/Knife Combat Duel - Block and Disarm|Knife Combat Duel - Block and Disarm]] · `atomic`
+- `[Decomposed] 01_Game_Design/interactive carpet` → [[01_Game_Design/Hexagonal Carpet Input Controller|Hexagonal Carpet Input Controller]] · `atomic`
+- `[Decomposed] 01_Game_Design/Lifespan  how many cycles` → [[01_Game_Design/Death-Noted Causes and DPS Boss Cycles|Death-Noted Causes and DPS Boss Cycles]] · `atomic`
+- `[Decomposed] 01_Game_Design/Lifespan  how many cycles` → [[01_Game_Design/Biological Lifecycle Action Loop|Biological Lifecycle Action Loop]] · `atomic`
+- `[Decomposed] 01_Game_Design/Sink with the ship` → [[01_Game_Design/Cooperative Battery Swapping - Toy Story Obstacles|Cooperative Battery Swapping - Toy Story Obstacles]] · `atomic`
+- `[Decomposed] 01_Game_Design/Sink with the ship` → [[01_Game_Design/Fear Rationalization and Imagination Traps|Fear Rationalization and Imagination Traps]] · `atomic`
+- `[Decomposed] 01_Game_Design/Sink with the ship` → [[01_Game_Design/Lightning Surges Organic Blob Liquid|Lightning Surges Organic Blob Liquid]] · `atomic`
+- `[Decomposed] 01_Game_Design/books with scenes, player can pull objects from chapters or jump into scenes to deal with obstacles` → [[01_Game_Design/Emotion-Driven Combat States|Emotion-Driven Combat States]] · `atomic`
+- `[Decomposed] 01_Game_Design/books with scenes, player can pull objects from chapters or jump into scenes to deal with obstacles` → [[01_Game_Design/Deceptive Military Chess - Spying, DDoS, Shelling|Deceptive Military Chess - Spying, DDoS, Shelling]] · `atomic`
+- `[Decomposed] 01_Game_Design/books with scenes, player can pull objects from chapters or jump into scenes to deal with obstacles` → [[01_Game_Design/Scene Jumping and Book Object Extraction|Scene Jumping and Book Object Extraction]] · `atomic`
+- `[Decomposed] 01_Game_Design/character can run on 2feet and different feet would gives boost to different directions while sprinting to a direction.` → [[01_Game_Design/The Giving Tree Resource Motif|The Giving Tree Resource Motif]] · `atomic`
+- `[Decomposed] 01_Game_Design/character can run on 2feet and different feet would gives boost to different directions while sprinting to a direction.` → [[01_Game_Design/Two-Footed Directional Sprint Boost|Two-Footed Directional Sprint Boost]] · `atomic`
+- `[Decomposed] 01_Game_Design/Laser on mesh the disable mesh` → [[01_Game_Design/Geological Rock AI Projection Mapping|Geological Rock AI Projection Mapping]] · `atomic`
+- `[Decomposed] 01_Game_Design/Laser on mesh the disable mesh` → [[01_Game_Design/In-Group Approval Circle Paradox|In-Group Approval Circle Paradox]] · `atomic`
+- `[Decomposed] 01_Game_Design/Laser on mesh the disable mesh` → [[01_Game_Design/Proximity Social Hangout Scaling|Proximity Social Hangout Scaling]] · `atomic`
+- `[Decomposed] 01_Game_Design/Laser on mesh the disable mesh` → [[01_Game_Design/Personal AI Audio-Visual Mood Narrator|Personal AI Audio-Visual Mood Narrator]] · `atomic`
+- `[Decomposed] 01_Game_Design/VR fps cute monsters game like Sam Serious` → [[01_Game_Design/Nocturnal Amnesia Village Curse|Nocturnal Amnesia Village Curse]] · `atomic`
+- `[Decomposed] 01_Game_Design/VR fps cute monsters game like Sam Serious` → [[01_Game_Design/Dragon Boss Scales and Eye-Poking Weakpoints|Dragon Boss Scales and Eye-Poking Weakpoints]] · `atomic`
+- `[Decomposed] 01_Game_Design/VR fps cute monsters game like Sam Serious` → [[01_Game_Design/Vertical Punching Leaping Fish|Vertical Punching Leaping Fish]] · `atomic`
+- `[Decomposed] 01_Game_Design/VR fps cute monsters game like Sam Serious` → [[01_Game_Design/Hide-and-Seek Pixelating Monster|Hide-and-Seek Pixelating Monster]] · `atomic`
+- `[Decomposed] 01_Game_Design/Recall protocol` → [[01_Game_Design/Card Village Army Builder|Card Village Army Builder]] · `atomic`
+- `[Decomposed] 01_Game_Design/Recall protocol` → [[01_Game_Design/Supply Chain Component Disassembly Game|Supply Chain Component Disassembly Game]] · `atomic`
+- `[Decomposed] 01_Game_Design/reconnecting` → [[01_Game_Design/Rotating Compartment Mystery Box|Rotating Compartment Mystery Box]] · `atomic`
+- `[Decomposed] 01_Game_Design/reconnecting` → [[01_Game_Design/Dual Perspective Disconnect and Reconnect|Dual Perspective Disconnect and Reconnect]] · `atomic`
+- `[Decomposed] 01_Game_Design/Flocking Players` → [[01_Game_Design/Language of Form AI Upscaler|Language of Form AI Upscaler]] · `atomic`
+- `[Decomposed] 01_Game_Design/Flocking Players` → [[01_Game_Design/AI-Aware Armor and Adaptive Quests|AI-Aware Armor and Adaptive Quests]] · `atomic`
+- `[Decomposed] 01_Game_Design/Flocking Players` → [[01_Game_Design/Polaroid Grey-Boxing and Object Cooldowns|Polaroid Grey-Boxing and Object Cooldowns]] · `atomic`
+- `[Decomposed] 01_Game_Design/losing gravity` → [[01_Game_Design/Biological Clock Loop|Biological Clock Loop]] · `atomic`
+- `[Decomposed] 01_Game_Design/losing gravity` → [[01_Game_Design/One-Way Dimensional Escape Paths|One-Way Dimensional Escape Paths]] · `atomic`
+- `[Decomposed] 01_Game_Design/losing gravity` → [[01_Game_Design/Earthbound Chains vs Weightless Youth|Earthbound Chains vs Weightless Youth]] · `atomic`
+- `[Decomposed] 01_Game_Design/question man` → [[01_Game_Design/Prefix Obstacle Difficulty Mode|Prefix Obstacle Difficulty Mode]] · `atomic`
+- `[Decomposed] 01_Game_Design/question man` → [[01_Game_Design/Potion Brewing Poison Roulette|Potion Brewing Poison Roulette]] · `atomic`
+- `[Decomposed] 01_Game_Design/question man` → [[01_Game_Design/Injury Buff and Active Recovery|Injury Buff and Active Recovery]] · `atomic`
+- `[Decomposed] 01_Game_Design/question man` → [[01_Game_Design/Institutional Doubt System Sabotage|Institutional Doubt System Sabotage]] · `atomic`
+- `[Decomposed] 01_Game_Design/Surfing` → [[01_Game_Design/Card-Driven Wave Movement Combo|Card-Driven Wave Movement Combo]] · `atomic`
+- `[Decomposed] 01_Game_Design/Surfing` → [[01_Game_Design/Surf Tournament Formats and Rentals|Surf Tournament Formats and Rentals]] · `atomic`
+- `[Decomposed] 01_Game_Design/Surfing` → [[01_Game_Design/Surfboard Equipment and High Fashion Economy|Surfboard Equipment and High Fashion Economy]] · `atomic`
+- `[Decomposed] 01_Game_Design/Surfing` → [[01_Game_Design/Wave Dynamics and Aerial Combos|Wave Dynamics and Aerial Combos]] · `atomic`
+- `[Decomposed] 01_Game_Design/Punching bag eats enemy and punching it deals dmg` → [[01_Game_Design/Fire Monster Combustible Puzzle Pairing|Fire Monster Combustible Puzzle Pairing]] · `atomic`
+- `[Decomposed] 01_Game_Design/Punching bag eats enemy and punching it deals dmg` → [[01_Game_Design/Magic Dungeon Guard Trust and Retirement|Magic Dungeon Guard Trust and Retirement]] · `atomic`
+- `[Decomposed] 01_Game_Design/Punching bag eats enemy and punching it deals dmg` → [[01_Game_Design/Tiered Magic Terrain|Tiered Magic Terrain]] · `atomic`
+- `[Decomposed] 01_Game_Design/if distance = x` → [[01_Game_Design/Pay-to-Win Tic-Tac-Toe and Tiny Heroes|Pay-to-Win Tic-Tac-Toe and Tiny Heroes]] · `atomic`
+- `[Decomposed] 01_Game_Design/if distance = x` → [[01_Game_Design/Mass and Structural Boundary Dynamics|Mass and Structural Boundary Dynamics]] · `atomic`
+- `[Decomposed] 01_Game_Design/if distance = x` → [[01_Game_Design/Limited Mobility Motor Rhythm Imitation|Limited Mobility Motor Rhythm Imitation]] · `atomic`
+- `[Decomposed] 01_Game_Design/if distance = x` → [[01_Game_Design/Red Button Micro-Loop Puzzle|Red Button Micro-Loop Puzzle]] · `atomic`
+- `[Decomposed] 01_Game_Design/if distance = x` → [[01_Game_Design/Match Flare Galaxy Relativity|Match Flare Galaxy Relativity]] · `atomic`
+- `[Decomposed] 01_Game_Design/if distance = x` → [[01_Game_Design/GTA Alien Invasion Faction Choice|GTA Alien Invasion Faction Choice]] · `atomic`
+- `[Decomposed] 01_Game_Design/if distance = x` → [[01_Game_Design/Unit Death Return on Investment|Unit Death Return on Investment]] · `atomic`
+- `[Decomposed] 01_Game_Design/if distance = x` → [[01_Game_Design/Target Locking and Audio Sensory Feedback|Target Locking and Audio Sensory Feedback]] · `atomic`
+- `[Decomposed] 01_Game_Design/妖尾貓之惡夢` → [[01_Game_Design/Scrambled Health Bar Combat|Scrambled Health Bar Combat]] · `atomic`
+- `[Decomposed] 01_Game_Design/妖尾貓之惡夢` → [[01_Game_Design/Filmstrip Reel Screen Burn Mechanic|Filmstrip Reel Screen Burn Mechanic]] · `atomic`
+- `[Decomposed] 01_Game_Design/妖尾貓之惡夢` → [[01_Game_Design/Bedroom Twilight Orb Adventure|Bedroom Twilight Orb Adventure]] · `atomic`
+- `[Decomposed] 01_Game_Design/妖尾貓之惡夢` → [[01_Game_Design/Mission Cost Interface and Falling Orbs|Mission Cost Interface and Falling Orbs]] · `atomic`
+- `[Decomposed] 01_Game_Design/妖尾貓之惡夢` → [[01_Game_Design/Mini Heavy Pool - 8-Ball Role Mechanics|Mini Heavy Pool - 8-Ball Role Mechanics]] · `atomic`
+- `[Decomposed] 01_Game_Design/妖尾貓之惡夢` → [[01_Game_Design/Multi-Server Stat Variation Worlds|Multi-Server Stat Variation Worlds]] · `atomic`
+- `[Decomposed] 01_Game_Design/妖尾貓之惡夢` → [[01_Game_Design/9-Numpad Directional Stat Control|9-Numpad Directional Stat Control]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Momentum Storage and Kinetic Release|Momentum Storage and Kinetic Release]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Component Attachment Scoring Matrix|Component Attachment Scoring Matrix]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Cognitive Memory Capacity Barrier|Cognitive Memory Capacity Barrier]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Discharge Energy Nodes and Shifting Ceilings|Discharge Energy Nodes and Shifting Ceilings]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Connect the Dots Puzzle - Dark Sky Star Sequences|Connect the Dots Puzzle - Dark Sky Star Sequences]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/Chimp Department Store - Mini-Employee Cards|Chimp Department Store - Mini-Employee Cards]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[01_Game_Design/The Ultra-Lazy Game - Brain and Body Disconnect|The Ultra-Lazy Game - Brain and Body Disconnect]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game Jam Game Ideas` → [[01_Game_Design/Themed Escape Room System|Themed Escape Room System]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game Jam Game Ideas` → [[01_Game_Design/Night in the Museum - Freeze Pose Escape|Night in the Museum - Freeze Pose Escape]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game Jam Game Ideas` → [[01_Game_Design/Cats and Lasers - Feline Destructive Navigation|Cats and Lasers - Feline Destructive Navigation]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game Jam Game Ideas` → [[01_Game_Design/Motion Pinball Machine - Arm Tilt Flippers|Motion Pinball Machine - Arm Tilt Flippers]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game Jam Game Ideas` → [[01_Game_Design/Job Simulator - Shopkeeper and Office Boy|Job Simulator - Shopkeeper and Office Boy]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game Jam Game Ideas` → [[01_Game_Design/Worms Arena - Cute Weapons PVP|Worms Arena - Cute Weapons PVP]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game Jam Game Ideas` → [[01_Game_Design/Steam Train Driver|Steam Train Driver]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game Jam Game Ideas` → [[01_Game_Design/Color Switch - 2-Player Directional Puzzle|Color Switch - 2-Player Directional Puzzle]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/https--www.instagram.com-reel-CeB3TK_F9p4-igshid=YmMyMTA2M2Y=` → [[01_Game_Design/Virtual Room Interactive Items and Social Chaos|Virtual Room Interactive Items and Social Chaos]] · `atomic`
+- `[Decomposed] 01_Game_Design/Game Jam Game Ideas` → [[01_Game_Design/Marshmallow Kingdom|Marshmallow Kingdom]] · `atomic`
+- `[Decomposed] 01_Game_Design/Edit skill animation in battle to dodge attack` → [[01_Game_Design/Timed Document Laser and Ping-Pong Ghost Escape|Timed Document Laser and Ping-Pong Ghost Escape]] · `atomic`
+- `[Decomposed] 01_Game_Design/Edit skill animation in battle to dodge attack` → [[01_Game_Design/Pins, Wires, and Bond-Breaking Mechanics|Pins, Wires, and Bond-Breaking Mechanics]] · `atomic`
+- `[Decomposed] 01_Game_Design/Edit skill animation in battle to dodge attack` → [[01_Game_Design/Unlimited Legend - Quick-Switch Champion Arena|Unlimited Legend - Quick-Switch Champion Arena]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/UI Event Matrices and Spatial Pacing|UI Event Matrices and Spatial Pacing]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/The Decryption Lens and Pattern Emblems|The Decryption Lens and Pattern Emblems]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/Group Vision and Tactical Range|Group Vision and Tactical Range]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/Systemic Combat Friction and Flu Seasons|Systemic Combat Friction and Flu Seasons]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/Democracy Bingo and Systemic Game Rules|Democracy Bingo and Systemic Game Rules]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/Purchasable Power Corporate Finance|Purchasable Power Corporate Finance]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/Inverted Role Play - Minion and Pest Escape|Inverted Role Play - Minion and Pest Escape]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/Color Tile Consumption Wheel|Color Tile Consumption Wheel]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/Asymmetric Outlier Challenge|Asymmetric Outlier Challenge]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/Underground Casino and Cheating Mechanics|Underground Casino and Cheating Mechanics]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[01_Game_Design/Cognitive Delays and Perception Lag|Cognitive Delays and Perception Lag]] · `atomic`
+- `Apple Notes/21 Grams Weight of a Soul.md` → [[01_Game_Design/21 Grams Weight of a Soul|21 Grams Weight of a Soul]] · `7fc9c5bead6b`
+- `Apple Notes/books with scenes, player can pull objects from chapters or jump into scenes to deal with obstacles.md` → [[01_Game_Design/books with scenes, player can pull objects from chapters or jump into scenes to deal with obstacles|Book-Scene Strategy and Emotion Mechanics]] · `5110c61bb1cb`
+- `Apple Notes/chess pieces knocking off board.md` → [[01_Game_Design/chess pieces knocking off board|chess pieces knocking off board]] · `1b5a015b8d98`
+- `Apple Notes/Concepts x9001.md` → [[01_Game_Design/Concepts x9001|Concepts x9001]] · `cf51ae1a3c16`
+- `Apple Notes/crystal world where the player uses a flashlight to shine coloured crystal and fractures the light to show platforms.md` → [[01_Game_Design/crystal world where the player uses a flashlight to shine coloured crystal and fractures the light to show platforms|Crystal Light Platform World]] · `d4dd93b31a22`
+- `Apple Notes/Design a fun toy with surprises.md` → [[01_Game_Design/Design a fun toy with surprises|Design a fun toy with surprises]] · `2657eff39085`
+- `Apple Notes/Digital Candy Game.md` → [[01_Game_Design/Digital Candy Game|Digital Candy Game]] · `6cf41693c90a`
+- `Apple Notes/character can run on 2feet and different feet would gives boost to different directions while sprinting to a direction..md` → [[01_Game_Design/character can run on 2feet and different feet would gives boost to different directions while sprinting to a direction.|Directional Feet and Momentum]] · `dcf2efac4132`
+- `Apple Notes/Distance based organism.md` → [[01_Game_Design/Distance based organism|Distance based organism]] · `edd1fc128ed1`
+- `Apple Notes/00928z.md` → [[Dual-Joint Direction Controller|Dual-Joint Direction Controller]] · `c80a1d1608b9`
+- `Apple Notes/Edit skill animation in battle to dodge attack.md` → [[01_Game_Design/Edit skill animation in battle to dodge attack|Edit skill animation in battle to dodge attack]] · `240c73a7c2a6`
+- `Apple Notes/flies die over steam.md` → [[01_Game_Design/flies die over steam|flies die over steam]] · `368bbe34ee20`
+- `Apple Notes/Flipping number cards.md` → [[01_Game_Design/Flipping number cards|Flipping number cards]] · `030c5b7eae80`
+- `Apple Notes/Flocking Players.md` → [[01_Game_Design/Flocking Players|Flocking Players]] · `e134de2a6ad1`
+- `Apple Notes/Game idea.md` → [[01_Game_Design/Game idea|Game idea]] · `6702c69ce235`
+- `Apple Notes/Game Jam Game Ideas.md` → [[01_Game_Design/Game Jam Game Ideas|Game Jam Game Ideas]] · `0852ebb580f1`
+- `Apple Notes/get the bird to sing for you.md` → [[01_Game_Design/get the bird to sing for you|get the bird to sing for you]] · `5fc5abeeb328`
+- `Apple Notes/Idea hunger game catch.md` → [[01_Game_Design/Idea hunger game catch|Idea hunger game catch]] · `dcb86a4898d6`
+- `Apple Notes/if distance = x.md` → [[01_Game_Design/if distance = x|if distance = x]] · `704124529ba2`
+- `Apple Notes/interactive carpet.md` → [[01_Game_Design/interactive carpet|interactive carpet]] · `9601908f56d2`
+- `Apple Notes/Killer game.md` → [[01_Game_Design/Killer game|Killer game]] · `bd343ac81a11`
+- `Apple Notes/Laser on mesh the disable mesh.md` → [[01_Game_Design/Laser on mesh the disable mesh|Laser on mesh the disable mesh]] · `9c52f520109f`
+- `Apple Notes/Lifespan  how many cycles.md` → [[01_Game_Design/Lifespan  how many cycles|Lifespan  how many cycles]] · `eb4aa498672a`
+- `Apple Notes/Loot, Magic, Robots.md` → [[01_Game_Design/Loot, Magic, Robots|Loot, Magic, Robots]] · `314c57b22b3d`
+- `Apple Notes/losing gravity.md` → [[01_Game_Design/losing gravity|losing gravity]] · `92d4ece74fe8`
+- `Apple Notes/Magic.md` → [[01_Game_Design/Magic|Magic]] · `4a0b290f4851`
+- `Apple Notes/Massively Multiplayer Game.md` → [[01_Game_Design/Massively Multiplayer Game|Massively Multiplayer Game]] · `79a6ca4423ce`
+- `Apple Notes/moebius.md` → [[01_Game_Design/moebius|moebius]] · `8cdd7fcf49eb`
+- `Apple Notes/Walk  run  boost  break  jump  boost  run  break  drift  boost.md` → [[01_Game_Design/Walk  run  boost  break  jump  boost  run  break  drift  boost|Movement Combo Loop]] · `12b4bc89c996`
+- `Apple Notes/Multi-scene Killer game.md` → [[01_Game_Design/Multi-scene Killer game|Multi-scene Killer game]] · `e385e937f8c0`
+- `Apple Notes/Player shoots gases to each other.md` → [[01_Game_Design/Player shoots gases to each other|Player shoots gases to each other]] · `787804f7dfe5`
+- `Apple Notes/Players scatter in a map.md` → [[01_Game_Design/Players scatter in a map|Players scatter in a map]] · `49222777c5dd`
+- `Apple Notes/The number of land in each island.md` → [[01_Game_Design/The number of land in each island|Procedural Islands and Wearable Abilities]] · `155b41aa48b0`
+- `Apple Notes/Prototype idea.md` → [[01_Game_Design/Prototype idea|Prototype idea]] · `518100a50a5a`
+- `Apple Notes/Punching bag eats enemy and punching it deals dmg.md` → [[01_Game_Design/Punching bag eats enemy and punching it deals dmg|Punching bag eats enemy and punching it deals dmg]] · `9364cbc0f7b5`
+- `Apple Notes/question man.md` → [[01_Game_Design/question man|question man]] · `883a1395c6ff`
+- `Apple Notes/Recall protocol.md` → [[01_Game_Design/Recall protocol|Recall protocol]] · `25467ccf9864`
+- `Apple Notes/reconnecting.md` → [[01_Game_Design/reconnecting|reconnecting]] · `309c374beb7b`
+- `Apple Notes/Rootkit- Levitate.md` → [[01_Game_Design/Rootkit- Levitate|Rootkit- Levitate]] · `1d7c3071a03b`
+- `Apple Notes/Scheduling tasks.md` → [[01_Game_Design/Scheduling tasks|Scheduling tasks]] · `15723909d43e`
+- `Apple Notes/set them up.md` → [[01_Game_Design/set them up|set them up]] · `269b1dfb3d26`
+- `Apple Notes/Simon says Escape room.md` → [[01_Game_Design/Simon says Escape room|Simon says Escape room]] · `42c9d3d8d9e1`
+- `Apple Notes/Sink with the ship.md` → [[01_Game_Design/Sink with the ship|Sink with the ship]] · `1f3b5d0ab5c9`
+- `Apple Notes/Stable running on water electricity and the water stopped.md` → [[01_Game_Design/Stable running on water electricity and the water stopped|Stable running on water electricity and the water stopped]] · `093be80897ba`
+- `Apple Notes/Surfing.md` → [[01_Game_Design/Surfing|Surfing]] · `202467978b6e`
+- `Apple Notes/Uni-scooter.md` → [[01_Game_Design/Uni-scooter|Uni-scooter]] · `5886fdedc192`
+- `Apple Notes/VR fps cute monsters game like Sam Serious.md` → [[01_Game_Design/VR fps cute monsters game like Sam Serious|VR fps cute monsters game like Sam Serious]] · `0747b68b5c61`
+- `Apple Notes/妖尾貓之惡夢.md` → [[01_Game_Design/妖尾貓之惡夢|妖尾貓之惡夢]] · `9fd954322d0a`
+- `Apple Notes/寄居蟹換殼.md` → [[01_Game_Design/寄居蟹換殼|寄居蟹換殼]] · `3c85b27bd24e`
+
+## Narrative & Psychology
+
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[02_Narrative_Psychology/Delly Cyrus - Bullying and Running Narrative Seed|Delly Cyrus - Bullying and Running Narrative Seed]] · `atomic`
+- `[Decomposed] 02_Narrative_Psychology/樓上樓下` → [[02_Narrative_Psychology/Borrowed Energy of Child Birth|Borrowed Energy of Child Birth]] · `atomic`
+- `[Decomposed] 02_Narrative_Psychology/樓上樓下` → [[02_Narrative_Psychology/Vice-Themed Spatial Grid Game|Vice-Themed Spatial Grid Game]] · `atomic`
+- `[Decomposed] 02_Narrative_Psychology/Card box apartment` → [[02_Narrative_Psychology/Buzzing Tool Chained Room|Buzzing Tool Chained Room]] · `atomic`
+- `[Decomposed] 02_Narrative_Psychology/Card box apartment` → [[02_Narrative_Psychology/Sea Lion Room and 80s HK Rewind Cupboard|Sea Lion Room and 80s HK Rewind Cupboard]] · `atomic`
+- `[Decomposed] 02_Narrative_Psychology/Card box apartment` → [[02_Narrative_Psychology/Cardboard Box Handle-Hole Dragging|Cardboard Box Handle-Hole Dragging]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[02_Narrative_Psychology/The Resting Game and Emotional Geometry|The Resting Game and Emotional Geometry]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[02_Narrative_Psychology/Memory Golem and Dream Entity Network|Memory Golem and Dream Entity Network]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[02_Narrative_Psychology/Narrative Vignettes - Hitmen, Trains, and Spirit Enforcers|Narrative Vignettes - Hitmen, Trains, and Spirit Enforcers]] · `atomic`
+- `Apple Notes/a girl with magical hair with scrolls.md` → [[02_Narrative_Psychology/a girl with magical hair with scrolls|a girl with magical hair with scrolls]] · `4fee46eec88b`
+- `Apple Notes/a group of special ops.md` → [[02_Narrative_Psychology/a group of special ops|a group of special ops]] · `1bc84f376f1b`
+- `Apple Notes/female protagonist is a tutor for adult students and is highly respected by everyone, because she changes people’s lives by granting the knowledge and diploma the person needs to move on in life. Male.md` → [[02_Narrative_Psychology/female protagonist is a tutor for adult students and is highly respected by everyone, because she changes people’s lives by granting the knowledge and diploma the person needs to move on in life. Male|Adult Tutor and Hidden School Connection]] · `1cf362ebb46e`
+- `Apple Notes/Card box apartment.md` → [[02_Narrative_Psychology/Card box apartment|Card box apartment]] · `785be2c0012e`
+- `Apple Notes/Character idea.md` → [[02_Narrative_Psychology/Character idea|Character idea]] · `ae3e23ef9e06`
+- `Apple Notes/every figure is a shadow.md` → [[02_Narrative_Psychology/every figure is a shadow|every figure is a shadow]] · `ac4c6421c2e5`
+- `Apple Notes/he spun weaves of cloth to protect his land.md` → [[02_Narrative_Psychology/He spun weaves of cloth to protect his land|She spun weaves of cloth to protect his land]] · `afe667fc4bcb`
+- `Apple Notes/I.md` → [[02_Narrative_Psychology/I|I]] · `d00f76b0b70e`
+- `Apple Notes/i took two step then turned back.md` → [[02_Narrative_Psychology/i took two step then turned back|i took two step then turned back]] · `a8892799c596`
+- `Apple Notes/Looking up the evening sky,.md` → [[02_Narrative_Psychology/Looking up the evening sky,|Looking up the evening sky,]] · `1ea0b573695f`
+- `Apple Notes/My Journey Starts in how i start my family.md` → [[02_Narrative_Psychology/My Journey Starts in how i start my family|My Journey Starts in how i start my family]] · `02e0f6ede415`
+- `Apple Notes/nails to my hands on the keyboard-screen.md` → [[02_Narrative_Psychology/nails to my hands on the keyboard-screen|nails to my hands on the keyboard-screen]] · `4a9487ab6dc9`
+- `Apple Notes/opening sequence.md` → [[02_Narrative_Psychology/opening sequence|opening sequence]] · `8b43e2eacb77`
+- `Apple Notes/showers with plastic doll pieces.md` → [[02_Narrative_Psychology/showers with plastic doll pieces|showers with plastic doll pieces]] · `fbbefc311cc3`
+- `Apple Notes/Sleeping just making me more tired and it was very stressful to sleep. A lot of the time when I wake up, it felt like my progress was reset because vivid dreams overrides my daytime progress as a memo.md` → [[02_Narrative_Psychology/Sleeping just making me more tired and it was very stressful to sleep. A lot of the time when I wake up, it felt like my progress was reset because vivid dreams overrides my daytime progress as a memo|Sleep, Memory, and Creative Continuity]] · `e4c43df496e4`
+- `Apple Notes/Story idea.md` → [[02_Narrative_Psychology/Story idea|Story idea]] · `81f33c532c5d`
+- `Apple Notes/Story Note.md` → [[02_Narrative_Psychology/Story Note|Story Note]] · `74ec187f3bb6`
+- `Apple Notes/強制的愛.md` → [[02_Narrative_Psychology/強制的愛|強制的愛]] · `4a241b4d56de`
+- `Apple Notes/極限捉伊欣.md` → [[02_Narrative_Psychology/極限捉伊欣|極限捉伊欣]] · `6c8f254db4e4`
+- `Apple Notes/樓上樓下.md` → [[02_Narrative_Psychology/樓上樓下|樓上樓下]] · `a561b50be9e4`
+
+## Physical & Motion Games
+
+- `[Decomposed] 03_Physical_Motion_Games/Physical game concept` → [[03_Physical_Motion_Games/Character Aim Delay Variance|Character Aim Delay Variance]] · `atomic`
+- `[Decomposed] 03_Physical_Motion_Games/Physical game concept` → [[03_Physical_Motion_Games/Reach Extension Physical Tools|Reach Extension Physical Tools]] · `atomic`
+- `Apple Notes/Flag Football.md` → [[Sport Game|Sport Game]] · `f373785d97e3`
+- `Apple Notes/Game Jam.md` → [[03_Physical_Motion_Games/Game Jam|Game Jam]] · `1f0533bb6b47`
+- `Apple Notes/Hockey.md` → [[03_Physical_Motion_Games/Hockey|Hockey]] · `4c78dee94b76`
+- `Apple Notes/Mocap Recommendation.md` → [[03_Physical_Motion_Games/Mocap Recommendation|Mocap Recommendation]] · `590b4c636feb`
+- `Apple Notes/NBA.md` → [[03_Physical_Motion_Games/NBA|NBA]] · `33da04c95877`
+- `Apple Notes/Online gameplays.md` → [[03_Physical_Motion_Games/Online gameplays|Online gameplays]] · `063cba9ae25b`
+- `Apple Notes/Physical game concept.md` → [[03_Physical_Motion_Games/Physical game concept|Physical game concept]] · `33dd22932bd3`
+- `Apple Notes/Rugby seven 片.md` → [[03_Physical_Motion_Games/Rugby seven 片|Rugby seven 片]] · `26bbfe8a3048`
+
+## Art, Shaders & Aesthetics
+
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[04_Art_Shaders_Aesthetics/Environmental Storytelling Through Light Ownership|Environmental Storytelling Through Light Ownership]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[04_Art_Shaders_Aesthetics/Water Wiggle Vertex Shader|Water Wiggle Vertex Shader]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[04_Art_Shaders_Aesthetics/Fractal UV Shaders|Fractal UV Shaders]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/Art concepts` → [[04_Art_Shaders_Aesthetics/Black Supernova and Diffused Light Transitions|Black Supernova and Diffused Light Transitions]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/Art concepts` → [[04_Art_Shaders_Aesthetics/Asynchronous Rhythm Mesh Worming|Asynchronous Rhythm Mesh Worming]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/Painting in watercolour and graphite` → [[04_Art_Shaders_Aesthetics/Watercolor Mechanics Game Metaphor|Watercolor Mechanics Game Metaphor]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/never use true white and black` → [[04_Art_Shaders_Aesthetics/Color as Wavelength Light Absorption|Color as Wavelength Light Absorption]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/never use true white and black` → [[04_Art_Shaders_Aesthetics/Prohibition of Pure White and Black|Prohibition of Pure White and Black]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/crt tv zoom in` → [[04_Art_Shaders_Aesthetics/Planetary Extinction vs Reincarnation|Planetary Extinction vs Reincarnation]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/crt tv zoom in` → [[04_Art_Shaders_Aesthetics/CRT Phosphor 4-Perspective Switch|CRT Phosphor 4-Perspective Switch]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[04_Art_Shaders_Aesthetics/Acoustic Physics and 3D Wave Visualization|Acoustic Physics and 3D Wave Visualization]] · `atomic`
+- `[Decomposed] 01_Game_Design/Concepts x9001` → [[04_Art_Shaders_Aesthetics/Public Housing Perspectives and MTR Fisheye|Public Housing Perspectives and MTR Fisheye]] · `atomic`
+- `Apple Notes/6parkendal.md` → [[04_Art_Shaders_Aesthetics/6parkendal|6parkendal]] · `ebe5f2269488`
+- `Apple Notes/Art concepts.md` → [[04_Art_Shaders_Aesthetics/Art concepts|Art concepts]] · `6c0beea2accc`
+- `Apple Notes/bird nailing.md` → [[04_Art_Shaders_Aesthetics/bird nailing|bird nailing]] · `f1f25ec8350d`
+- `Apple Notes/Common Fonts.md` → [[04_Art_Shaders_Aesthetics/Common Fonts|Common Fonts]] · `f0aa94721e84`
+- `Apple Notes/crt tv zoom in.md` → [[04_Art_Shaders_Aesthetics/crt tv zoom in|crt tv zoom in]] · `fbe378f73c75`
+- `Apple Notes/Finding shit in a party MV.md` → [[04_Art_Shaders_Aesthetics/Finding shit in a party MV|Finding shit in a party MV]] · `8596f4b0fa06`
+- `Apple Notes/Four Season LED Screen.md` → [[04_Art_Shaders_Aesthetics/Four Season LED Screen|Four Season LED Screen]] · `67dca170bb1f`
+- `Game Development Keywords.md` → [[04_Art_Shaders_Aesthetics/Game Development Keywords|Game Development Keywords]] · `946f097f3f4e`
+- `Apple Notes/golden ears forehead n cheer fur cheetah.md` → [[04_Art_Shaders_Aesthetics/golden ears forehead n cheer fur cheetah|golden ears forehead n cheer fur cheetah]] · `04a0808e78be`
+- `Apple Notes/i put the moon in the tone.md` → [[04_Art_Shaders_Aesthetics/i put the moon in the tone|i put the moon in the tone]] · `58d807185334`
+- `Apple Notes/https--www.instagram.com-reel-CeB3TK_F9p4-igshid=YmMyMTA2M2Y=.md` → [[04_Art_Shaders_Aesthetics/https--www.instagram.com-reel-CeB3TK_F9p4-igshid=YmMyMTA2M2Y=|Instagram Inspiration and Virtual Room Ideas]] · `aec56b42c1af`
+- `Apple Notes/Lense flare.md` → [[04_Art_Shaders_Aesthetics/Lense flare|Lense flare]] · `035086fdac8f`
+- `Apple Notes/Lightmap probe.md` → [[04_Art_Shaders_Aesthetics/Lightmap probe|Lightmap probe]] · `b44646cf1b19`
+- `Apple Notes/never use true white and black.md` → [[04_Art_Shaders_Aesthetics/never use true white and black|never use true white and black]] · `be9caa309dca`
+- `Apple Notes/orange and blue fox.md` → [[04_Art_Shaders_Aesthetics/orange and blue fox|orange and blue fox]] · `7dab9c54d0ef`
+- `Apple Notes/Painting in watercolour and graphite.md` → [[04_Art_Shaders_Aesthetics/Painting in watercolour and graphite|Painting in watercolour and graphite]] · `db4957685e21`
+- `Apple Notes/Piano.md` → [[04_Art_Shaders_Aesthetics/Piano|Piano]] · `68759c1a1981`
+- `Apple Notes/reflection of light fractures into shapes.md` → [[04_Art_Shaders_Aesthetics/reflection of light fractures into shapes|reflection of light fractures into shapes]] · `5b78d0dd4ec0`
+- `Apple Notes/raspy male lead vocal, Warm piano chords lay the foundation, joined by soft, fingerstyle acoustic guitar and subtle electric accents for the light country touch, Understated R&B-inspired percussion an.md` → [[04_Art_Shaders_Aesthetics/raspy male lead vocal, Warm piano chords lay the foundation, joined by soft, fingerstyle acoustic guitar and subtle electric accents for the light country touch, Understated R&B-inspired percussion an|Third-Person Love Song]] · `dea2ecf49ef7`
+- `Apple Notes/visually realistic.md` → [[04_Art_Shaders_Aesthetics/visually realistic|visually realistic]] · `a3e816fc3a72`
+- `Apple Notes/扮得純粹.md` → [[04_Art_Shaders_Aesthetics/扮得純粹|扮得純粹]] · `a75c68222aa4`
+- `Apple Notes/高不成低不就.md` → [[04_Art_Shaders_Aesthetics/高不成低不就|高不成低不就]] · `6e8d7d97543d`
+
+## Technology & Pipelines
+
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[05_Tech_Pipelines_Unity/Mini Manager Root Hierarchy Protocol|Mini Manager Root Hierarchy Protocol]] · `atomic`
+- `[Decomposed] 01_Game_Design/Loot, Magic, Robots` → [[05_Tech_Pipelines_Unity/Mathematical Mesh Subdivision Curves|Mathematical Mesh Subdivision Curves]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/https--www.instagram.com-reel-CeB3TK_F9p4-igshid=YmMyMTA2M2Y=` → [[05_Tech_Pipelines_Unity/Procedural Map and Building Generation Workflow|Procedural Map and Building Generation Workflow]] · `atomic`
+- `Apple Notes/All unity plugins.md` → [[05_Tech_Pipelines_Unity/All unity plugins|All unity plugins]] · `77b3e76599c3`
+- `Apple Notes/forward kinematic.md` → [[05_Tech_Pipelines_Unity/forward kinematic|forward kinematic]] · `7eec3cf8b604`
+- `Apple Notes/Attack range of the enemies (Table).md` → [[05_Tech_Pipelines_Unity/Attack range of the enemies (Table)|Mission and Boss Design Template]] · `6193223db0a7`
+- `Apple Notes/ROS engineering.md` → [[05_Tech_Pipelines_Unity/ROS engineering|ROS engineering]] · `09686cedfdf7`
+
+## Life, Career & Philosophy
+
+- `[Decomposed] 06_Life_Career_Philosophy/no ETH` → [[06_Life_Career_Philosophy/Bora-Bora Land Transfer Logic|Bora-Bora Land Transfer Logic]] · `atomic`
+- `[Decomposed] 06_Life_Career_Philosophy/no ETH` → [[06_Life_Career_Philosophy/Sustainable Non-Speculative Surfing Economy|Sustainable Non-Speculative Surfing Economy]] · `atomic`
+- `[Decomposed] 06_Life_Career_Philosophy/Learning opens doors` → [[06_Life_Career_Philosophy/Hardware Lag vs Employee Career Growth|Hardware Lag vs Employee Career Growth]] · `atomic`
+- `[Decomposed] 06_Life_Career_Philosophy/Learning opens doors` → [[06_Life_Career_Philosophy/Creative Exposure for Children|Creative Exposure for Children]] · `atomic`
+- `[Decomposed] 06_Life_Career_Philosophy/Questions to ask when exploring designs` → [[06_Life_Career_Philosophy/Work Continuity and Existential Meaning|Work Continuity and Existential Meaning]] · `atomic`
+- `[Decomposed] 06_Life_Career_Philosophy/Questions to ask when exploring designs` → [[06_Life_Career_Philosophy/Childhood Trauma Mother Projection in Romance|Childhood Trauma Mother Projection in Romance]] · `atomic`
+- `[Decomposed] 06_Life_Career_Philosophy/Questions to ask when exploring designs` → [[06_Life_Career_Philosophy/Alienation and Resilience Design Inquiry|Alienation and Resilience Design Inquiry]] · `atomic`
+- `[Decomposed] 06_Life_Career_Philosophy/What is the telos of all human action` → [[06_Life_Career_Philosophy/Doctrine of the Mean and Virtues|Doctrine of the Mean and Virtues]] · `atomic`
+- `[Decomposed] 06_Life_Career_Philosophy/What is the telos of all human action` → [[06_Life_Career_Philosophy/Tripartite Psyche - Rational, Sensuous, Vegetative|Tripartite Psyche - Rational, Sensuous, Vegetative]] · `atomic`
+- `[Decomposed] 06_Life_Career_Philosophy/What is the telos of all human action` → [[06_Life_Career_Philosophy/Aristotle Eudaimonia and Ultimate Telos|Aristotle Eudaimonia and Ultimate Telos]] · `atomic`
+- `[Decomposed] 04_Art_Shaders_Aesthetics/Painting in watercolour and graphite` → [[06_Life_Career_Philosophy/Human V8 Engine and Highway School Metaphor|Human V8 Engine and Highway School Metaphor]] · `atomic`
+- `Apple Notes/Class.md` → [[06_Life_Career_Philosophy/Class|Class]] · `7375f0ee222e`
+- `Apple Notes/i think the core problem is the current disciplinary system doesn’t cover everyone’s output.md` → [[06_Life_Career_Philosophy/i think the core problem is the current disciplinary system doesn’t cover everyone’s output|Disciplinary Systems and Output]] · `eab46adbd920`
+- `Apple Notes/The distance between ppl pulls reasons together.md` → [[06_Life_Career_Philosophy/The distance between ppl pulls reasons together|Distance, Insecurity, and Human Bonds]] · `e11c0ccb6993`
+- `Apple Notes/humanity.md` → [[06_Life_Career_Philosophy/humanity|humanity]] · `d8c8c0bee482`
+- `Apple Notes/Learning opens doors.md` → [[06_Life_Career_Philosophy/Learning opens doors|Learning opens doors]] · `88e3bf620594`
+- `Apple Notes/no ETH.md` → [[06_Life_Career_Philosophy/no ETH|no ETH]] · `c835606eeb5e`
+- `Apple Notes/People’s ignorance creates trouble for ppl.md` → [[06_Life_Career_Philosophy/People’s ignorance creates trouble for ppl|People’s ignorance creates trouble for ppl]] · `e2d1bceb534b`
+- `Apple Notes/Questions to ask when exploring designs.md` → [[06_Life_Career_Philosophy/Questions to ask when exploring designs|Questions to ask when exploring designs]] · `e06846ea2f92`
+- `Apple Notes/Sharing session for past projects.md` → [[06_Life_Career_Philosophy/Sharing session for past projects|Sharing session for past projects]] · `5f4c4bf11a6e`
+- `Apple Notes/stack exchange game dev..md` → [[06_Life_Career_Philosophy/stack exchange game dev.|stack exchange game dev.]] · `496226ff8e88`
+- `Apple Notes/Staring at lines and words mean staring at your brain.md` → [[06_Life_Career_Philosophy/Staring at lines and words mean staring at your brain|Staring at lines and words mean staring at your brain]] · `4df03faff7d5`
+- `Apple Notes/Tension Headache.md` → [[06_Life_Career_Philosophy/Tension Headache|Tension Headache]] · `6f7bbc327f7c`
+- `Apple Notes/To Ashley,.md` → [[06_Life_Career_Philosophy/To Ashley,|To Ashley,]] · `003588bfd220`
+- `Apple Notes/To not be chased.md` → [[06_Life_Career_Philosophy/To not be chased|To not be chased]] · `78f9d8319d89`
+- `Apple Notes/What is the telos of all human action.md` → [[06_Life_Career_Philosophy/What is the telos of all human action|What is the telos of all human action]] · `5b38a01402a9`
+- `Apple Notes/尋根.md` → [[06_Life_Career_Philosophy/尋根|尋根]] · `36d083b1a6d5`
+- `Apple Notes/橋麥麵 紅米飯.md` → [[06_Life_Career_Philosophy/橋麥麵 紅米飯|橋麥麵 紅米飯]] · `4f0d1d81e4cb`

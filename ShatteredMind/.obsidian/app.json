@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "Assets",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": [
+    "_backup_apple_notes/",
+    ".tools/"
+  ],
+  "alwaysUpdateLinks": true
+}

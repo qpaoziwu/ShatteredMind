@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "85397ece503836be",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd27563d3e5791a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7d3e4c33a9e08b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad637a7c0375788e",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c968ab37f0eeb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a43aab89977cf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "827f31bd239da9a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2c9bf5a305ddebf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6db7bba75173f7fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3300065045c74f43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4ddd94065d6643f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apple Notes/a girl with magical hair with scrolls.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bee4be58e93d958c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apple Notes/a girl with magical hair with scrolls.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "057802192eb7e7fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e5ad4f1733672a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "24397458444717b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ebbbfbccaf20a2b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Game Development Plan.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Import notes": false
+    }
+  },
+  "active": "e7d3e4c33a9e08b9",
+  "lastOpenFiles": [
+    "00_MOCs/00_Master_Index.md",
+    "Untitled 1.base",
+    "Untitled 1.canvas",
+    "02_Narrative_Psychology/Memory Golem and Dream Entity Network.md",
+    "02_Narrative_Psychology/Narrative Vignettes - Hitmen, Trains, and Spirit Enforcers.md",
+    "02_Narrative_Psychology/a girl with magical hair with scrolls.md",
+    "02_Narrative_Psychology/opening sequence.md",
+    "02_Narrative_Psychology/nails to my hands on the keyboard-screen.md",
+    "02_Narrative_Psychology/showers with plastic doll pieces.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "01_Game_Design/Puzzle Taxonomy - Battle, Easter Egg, Chain, Connect Dots.md",
+    "00_MOCs/Hub_Modular_Toy_Mechanics.md",
+    "02_Narrative_Psychology/強制的愛.md",
+    "02_Narrative_Psychology/Story Note.md",
+    "02_Narrative_Psychology/Story idea.md",
+    "02_Narrative_Psychology/Sleeping just making me more tired and it was very stressful to sleep. A lot of the time when I wake up, it felt like my progress was reset because vivid dreams overrides my daytime progress as a memo.md",
+    "02_Narrative_Psychology/My Journey Starts in how i start my family.md",
+    "02_Narrative_Psychology/Looking up the evening sky,.md",
+    "02_Narrative_Psychology/He spun weaves of cloth to protect his land.md",
+    "02_Narrative_Psychology/I.md",
+    "02_Narrative_Psychology/i took two step then turned back.md",
+    "02_Narrative_Psychology/female protagonist is a tutor for adult students and is highly respected by everyone, because she changes people’s lives by granting the knowledge and diploma the person needs to move on in life. Male.md",
+    "02_Narrative_Psychology/every figure is a shadow.md",
+    "02_Narrative_Psychology/Character idea.md",
+    "02_Narrative_Psychology/Card box apartment.md",
+    "02_Narrative_Psychology/a group of special ops.md",
+    "06_Life_Career_Philosophy/尋根.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "02_Narrative_Psychology/極限捉伊欣.md",
+    "02_Narrative_Psychology/樓上樓下.md",
+    "01_Game_Design/Canvases/Untitled 2.canvas",
+    "01_Game_Design/Canvases/Untitled 1.canvas",
+    "01_Game_Design/Canvases/Untitled.canvas",
+    "__pycache__/unify_vault_and_weave_concepts.cpython-314.pyc",
+    "__pycache__",
+    "01_Game_Design/Canvases/Untitled 4.canvas",
+    "Assets/IMG_5259.jpeg",
+    "Assets/IMG_2656.jpeg",
+    "Assets/IMG_8047.png",
+    "Assets/IMG_2519.jpeg",
+    "Assets/IMG_2657.png",
+    "Assets/IMG_2659.png",
+    "Assets/Drawing 5.png",
+    "Assets/Drawing 4.png",
+    "Assets/Drawing 3.png",
+    "Assets/Drawing 2.png",
+    "Assets",
+    "07_Synthesized_Concepts",
+    "00_MOCs",
+    "06_Life_Career_Philosophy",
+    "05_Tech_Pipelines_Unity",
+    "04_Art_Shaders_Aesthetics"
+  ]
+}
