@@ -1,20 +1,22 @@
 {
   "main": {
-    "id": "85397ece503836be",
+    "id": "d791463fd08a8368",
     "type": "split",
     "children": [
       {
-        "id": "4b07dc57db3c3b69",
+        "id": "db01a489c77d4217",
         "type": "tabs",
         "children": [
           {
-            "id": "530233bbad853ec6",
+            "id": "03be96afa95eb0d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Assets/Drawing 5.png"
+              },
+              "icon": "lucide-image",
+              "title": "Drawing 5"
             }
           }
         ]
@@ -23,20 +25,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ad637a7c0375788e",
+    "id": "9b12164b8e382d98",
     "type": "split",
     "children": [
       {
-        "id": "44c968ab37f0eeb8",
+        "id": "dafc1950482eaa18",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a43aab89977cf1",
+            "id": "96700236049372f6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -46,7 +48,7 @@
             }
           },
           {
-            "id": "827f31bd239da9a7",
+            "id": "9fbf71ce3bcf98a3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +65,7 @@
             }
           },
           {
-            "id": "d2c9bf5a305ddebf",
+            "id": "2fa8a0d6c57b0248",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +84,19 @@
     "width": 300
   },
   "right": {
-    "id": "6db7bba75173f7fc",
+    "id": "0216cf5395666f63",
     "type": "split",
     "children": [
       {
-        "id": "3300065045c74f43",
+        "id": "35181576783d4ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ddd94065d6643f",
+            "id": "6878a7eefc4d36b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apple Notes/a girl with magical hair with scrolls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,12 +110,11 @@
             }
           },
           {
-            "id": "bee4be58e93d958c",
+            "id": "b9753a92d743a9e3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apple Notes/a girl with magical hair with scrolls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -123,7 +123,7 @@
             }
           },
           {
-            "id": "057802192eb7e7fa",
+            "id": "00195cd4ab5e42ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "0e5ad4f1733672a6",
+            "id": "4f5f6661c129a003",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "24397458444717b6",
+            "id": "5468812639cf6153",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -164,25 +164,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "ebbbfbccaf20a2b7",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Game Development Plan.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,66 +180,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-importer:Import notes": false
+      "bases:Create new base": false
     }
   },
-  "active": "f3a43aab89977cf1",
+  "active": "03be96afa95eb0d3",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "2026-09-19.md",
-    "00_MOCs/00_Master_Index.md",
-    "Untitled 1.base",
-    "Untitled 1.canvas",
-    "02_Narrative_Psychology/Memory Golem and Dream Entity Network.md",
-    "02_Narrative_Psychology/Narrative Vignettes - Hitmen, Trains, and Spirit Enforcers.md",
-    "02_Narrative_Psychology/a girl with magical hair with scrolls.md",
-    "02_Narrative_Psychology/opening sequence.md",
-    "02_Narrative_Psychology/nails to my hands on the keyboard-screen.md",
-    "02_Narrative_Psychology/showers with plastic doll pieces.md",
-    "Untitled.base",
-    "Untitled 5.canvas",
-    "Untitled 4.canvas",
-    "01_Game_Design/Puzzle Taxonomy - Battle, Easter Egg, Chain, Connect Dots.md",
-    "00_MOCs/Hub_Modular_Toy_Mechanics.md",
-    "02_Narrative_Psychology/強制的愛.md",
-    "02_Narrative_Psychology/Story Note.md",
-    "02_Narrative_Psychology/Story idea.md",
-    "02_Narrative_Psychology/Sleeping just making me more tired and it was very stressful to sleep. A lot of the time when I wake up, it felt like my progress was reset because vivid dreams overrides my daytime progress as a memo.md",
-    "02_Narrative_Psychology/My Journey Starts in how i start my family.md",
-    "02_Narrative_Psychology/Looking up the evening sky,.md",
-    "02_Narrative_Psychology/He spun weaves of cloth to protect his land.md",
-    "02_Narrative_Psychology/I.md",
-    "02_Narrative_Psychology/i took two step then turned back.md",
-    "02_Narrative_Psychology/female protagonist is a tutor for adult students and is highly respected by everyone, because she changes people’s lives by granting the knowledge and diploma the person needs to move on in life. Male.md",
-    "02_Narrative_Psychology/every figure is a shadow.md",
-    "02_Narrative_Psychology/Character idea.md",
-    "02_Narrative_Psychology/Card box apartment.md",
-    "02_Narrative_Psychology/a group of special ops.md",
-    "06_Life_Career_Philosophy/尋根.md",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "01_Game_Design/Canvases/Untitled 2.canvas",
-    "01_Game_Design/Canvases/Untitled 1.canvas",
-    "01_Game_Design/Canvases/Untitled.canvas",
-    "__pycache__/unify_vault_and_weave_concepts.cpython-314.pyc",
-    "__pycache__",
-    "01_Game_Design/Canvases/Untitled 4.canvas",
-    "Assets/IMG_5259.jpeg",
-    "Assets/IMG_2656.jpeg",
-    "Assets/IMG_8047.png",
-    "Assets/IMG_2519.jpeg",
-    "Assets/IMG_2657.png",
-    "Assets/IMG_2659.png",
-    "Assets/Drawing 5.png",
     "Assets/Drawing 4.png",
-    "Assets/Drawing 3.png",
+    "Assets/Drawing 1.png",
     "Assets/Drawing 2.png",
-    "Assets",
-    "07_Synthesized_Concepts",
-    "00_MOCs",
-    "06_Life_Career_Philosophy",
-    "05_Tech_Pipelines_Unity",
-    "04_Art_Shaders_Aesthetics"
+    "Assets/Drawing 3.png",
+    "Assets/Drawing 5.png",
+    "Assets/IMG_8047.png",
+    "Assets/IMG_5259.jpeg",
+    "Assets/IMG_2659.png",
+    "Assets/IMG_2657.png",
+    "Assets/IMG_2656.jpeg",
+    "Assets/IMG_2519.jpeg",
+    "visual-pipeline-handbook.md",
+    "Untitled 1.canvas",
+    "START HERE.md"
   ]
 }
