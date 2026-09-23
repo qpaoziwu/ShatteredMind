@@ -11,12 +11,14 @@
             "id": "03be96afa95eb0d3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Drawing 5.png"
+                "file": "START HERE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Drawing 5"
+              "icon": "lucide-file",
+              "title": "START HERE"
             }
           }
         ]
@@ -183,21 +185,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "03be96afa95eb0d3",
+  "active": "96700236049372f6",
   "lastOpenFiles": [
-    "Assets/Drawing 4.png",
-    "Assets/Drawing 1.png",
-    "Assets/Drawing 2.png",
-    "Assets/Drawing 3.png",
     "Assets/Drawing 5.png",
+    "Assets/Drawing 3.png",
+    "Assets/Drawing 2.png",
+    "Assets/Drawing 1.png",
+    "Assets/IMG_2519.jpeg",
+    "Assets/IMG_2656.jpeg",
+    "Assets/IMG_2657.png",
+    "Assets/IMG_2659.png",
+    "07_Synthesized_Concepts/Bora-Bora Spectrum Surfer.md",
+    "07_Synthesized_Concepts/Kinetic Resonance - Bloom of the Unspoken.md",
+    "07_Synthesized_Concepts/Lucid Terminal - The Memory Golem.md",
+    "START HERE.md",
+    "visual-pipeline-handbook.md",
+    "Untitled.canvas",
+    "2026-09-20.md",
+    "00_MOCs/00_Master_Index.md",
+    "Assets/Drawing 4.png",
     "Assets/IMG_8047.png",
     "Assets/IMG_5259.jpeg",
-    "Assets/IMG_2659.png",
-    "Assets/IMG_2657.png",
-    "Assets/IMG_2656.jpeg",
-    "Assets/IMG_2519.jpeg",
-    "visual-pipeline-handbook.md",
-    "Untitled 1.canvas",
-    "START HERE.md"
+    "Untitled 1.canvas"
   ]
 }
